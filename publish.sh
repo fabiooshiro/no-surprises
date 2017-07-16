@@ -1,0 +1,3 @@
+export BINTRAY_USER=fabiooshiro
+export BINTRAY_KEY=07c90509718fc422127605188b076a7a9d1ac401
+gradle bintrayUpload
